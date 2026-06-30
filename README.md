@@ -35,6 +35,7 @@ I build practical AI and software projects with a focus on machine learning, LLM
 
 | Result | Event | Project focus |
 |---|---|---|
+| `1st place` | CECECO Clean Energy Hackathon 2026 | with project named EcoSense |
 | `Top 5` | Anti-Corruption Hackathon | LLM-based tool for finding unclear or ambiguous parts in legal documents |
 | `2nd place` | Build with AI: Ideathon | AI-focused idea and prototype developed in a competitive ideathon format |
 
@@ -47,7 +48,7 @@ I build practical AI and software projects with a focus on machine learning, LLM
 
 ## AI / ML Stack
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV` `Jupyter` `FastAPI` `HTML` `CSS`
+`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV` `Jupyter` `FastAPI`
 
 ## Current Direction
 
@@ -62,4 +63,6 @@ I am focused on:
 
 - GitHub: [@feruz-bb](https://github.com/feruz-bb)
 - X(Twitter): [@feruzBkv](https://github.com/feruzBkv)
+- Telegram : [@b_feruzbek](https://t.me/b_feruzbek)
+- Gmail : [feruzbekbakoev@gmail.com]
 ---
