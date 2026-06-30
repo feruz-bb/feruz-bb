@@ -1,4 +1,4 @@
-# Feruzbek
+
 <div align="center">
 
 # Feruzbek Baqoyev
