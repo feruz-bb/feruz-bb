@@ -64,5 +64,5 @@ I am focused on:
 - GitHub: [@feruz-bb](https://github.com/feruz-bb)
 - X(Twitter): [@feruzBkv](https://github.com/feruzBkv)
 - Telegram : [@b_feruzbek](https://t.me/b_feruzbek)
-- Gmail : [feruzbekbakoev@gmail.com]
+- Gmail : feruzbekbakoev@gmail.com
 ---
