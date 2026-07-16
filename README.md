@@ -1,45 +1,16 @@
+
 <div align="center">
 
 # Feruzbek Baqoyev
 
 **AI / ML builder | Hackathon winner | Python developer**
 
-</div>
+<p>
+  <a href="https://github.com/feruz-bb"><img src="https://img.shields.io/badge/GitHub-feruz--bb-000000?style=for-the-badge&logo=github&logoColor=fff9f2" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-3e6394?style=for-the-badge" alt="AI and ML">
+</p>
 
-```txt
-                            ......                           feruzbek@github
-                      :=#@@@%@@@@@@@                         ----------------
-                   +%%@@@@@@%@@@@@@%@@@                      Name: ................................... Feruzbek Baqoyev
-                 .@@@@@@@@@@@@@@@@@@@@@@@@                   Role: .................................... AI / ML builder
-               -%@@@@@@@@@@@@@%@@@@@@@@@@@@@@                Focus: ................. LLM tools, ML, product prototypes
-              #@@@@@@+-:...... .......:-+@@@@@@              Languages: ................. Python, JavaScript, HTML, CSS
-             #@@@#..                       .:%@@             Stack: .............. Pandas, NumPy, Scikit-learn, PyTorch
-            .@@@@+...                        =%@             Tools: ..................... Jupyter, FastAPI, OpenCV, Git
-            -@@%%+.                          -+*@            
-            .@@@*..+#%@%#*=:::::...::---:.    =%@@           Hackathon.1: ........ 1st place - CECECO Clean Energy 2026
-        .   .@@@. -==+*#@@@@*-=+=+@@@@@@@@#=  +@@@=          Project.1: ...................................... EcoSense
-        ::. .@@=.  -++***#*++=:.-*#**+-::-:   :@@@           Hackathon.2: ........... Top 5 - Anti-Corruption Hackathon
-        ..   @%.+ +@@@@@@@%=--  ..+@@@@@@@%- . =@@           Project.2: ........... LLM legal-document ambiguity finder
-      ... .: +@:- ::-=====-:#-  #-:+#*%%***+ *.@@.           Hackathon.3: ......... 2nd place - Build with AI: Ideathon
-      .   #@:-%    ........:=   +-   ....      @# ::         
-         .=#.++  ::.   .:-..      .:.    ..    +-=%%         GitHub: .............................. github.com/feruz-bb
-      .-=*+:=#. .:::::--=+-*+==*+.:+-:...:::.  -*-%%         X: ........................................ x.com/feruzBkv
-      ##%@@-.:: :::-------#@@%%@@%-:------:.. --%#*          Telegram: ................................ t.me/b_feruzbek
-        @@@@:   .:-=--:-:-=-+*#=--:.:-:-===:::=-+=           Email: .......................... feruzbekbakoev@gmail.com
-        @@@@@**. .:---=##*#%%#####++##=.-=-:---              
-        @@@@@@@%  .:-=*%@@%#****##@@@@*---:::::..            GitHub Stats
-         =+#@@@@- .:-=:.::-=+**+==-::-==---.:+:..            ------------
-           :=#@@@: ---::-===+##+=---:.-+=---*#-              Repos: .......... AI / ML experiments and hackathon builds
-            :-*@@-.---.:::..::..  ...:------=-:              Current: ... stronger ML projects + production-ready tools
-             ::*@. -=+=--:::-------=-====- .:-               
-               *@..:-==+*+===-===++##*==-. .                 
-                  :-====*###*#####*+=----:                   
-                   --==-===========-:-=-                     
-                    ===-----==--==:--=                       
-                    ====-:--======-===                       
-                    =====-========-===                       
-                                                             
-```
+</div>
 
 ---
 
@@ -64,17 +35,34 @@ I build practical AI and software projects with a focus on machine learning, LLM
 
 | Result | Event | Project focus |
 |---|---|---|
-| `1st place` | CECECO Clean Energy Hackathon 2026 | EcoSense |
+| `1st place` | CECECO Clean Energy Hackathon 2026 | with project named EcoSense |
 | `Top 5` | Anti-Corruption Hackathon | LLM-based tool for finding unclear or ambiguous parts in legal documents |
 | `2nd place` | Build with AI: Ideathon | AI-focused idea and prototype developed in a competitive ideathon format |
+
+## Courses & Learning
+
+- `Python` - Mohirdev learning track / practice repo
+- `Machine Learning` - add certificate or course link
+- `Deep Learning` - add certificate or course link
+- `AI Product Building` - add certificate or course link
 
 ## AI / ML Stack
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` `OpenCV` `Jupyter` `FastAPI`
 
+## Current Direction
+
+I am focused on:
+
+- building stronger AI and ML projects
+- using LLMs to solve practical, high-impact problems
+- winning more hackathons with polished prototypes
+- turning experiments into production-ready products
+
 ## Contact
 
 - GitHub: [@feruz-bb](https://github.com/feruz-bb)
-- X/Twitter: [@feruzBkv](https://x.com/feruzBkv)
-- Telegram: [@b_feruzbek](https://t.me/b_feruzbek)
-- Gmail: feruzbekbakoev@gmail.com
+- X(Twitter): [@feruzBkv](https://github.com/feruzBkv)
+- Telegram : [@b_feruzbek](https://t.me/b_feruzbek)
+- Gmail : feruzbekbakoev@gmail.com
+---
