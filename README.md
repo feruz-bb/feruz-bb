@@ -41,10 +41,10 @@ I build practical AI and software projects with a focus on machine learning, LLM
 
 ## Courses & Learning
 
-- `Python` - Mohirdev learning track / practice repo
-- `Machine Learning` - add certificate or course link
-- `Deep Learning` - add certificate or course link
-- `AI Product Building` - add certificate or course link
+- `Python`
+- `Machine Learning`
+- `Deep Learning`
+- `AI Product Building` 
 
 ## AI / ML Stack
 
