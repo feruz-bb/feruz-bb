@@ -37,7 +37,7 @@ I build practical AI and software projects with a focus on machine learning, LLM
 |---|---|---|
 | `1st place` | CECECO Clean Energy Hackathon 2026 | with project named EcoSense |
 | `Top 5` | Anti-Corruption Hackathon | LLM-based tool for finding unclear or ambiguous parts in legal documents |
-| `2nd place` | Build with AI: Ideathon | AI-focused idea and prototype developed in a competitive ideathon format |
+| `2nd place` | Build with AI: Ideathon | AI-focused idea and prototype developed in a competitive ideathon format | `2nd place` | CBU CODING HACKATHON | Eliminated the bottleneck of manual, multi-alphabet sanction checks by developing automated AML/KYC screening and detecting suspicious networks |
 
 ## Courses & Learning
 
