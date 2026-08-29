@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Feruzbek Baqoyev
+# Feruzbek Bakoev
 
 **AI / ML builder | Hackathon winner | Python developer**
 
